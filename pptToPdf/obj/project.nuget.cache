@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "uvdmmTQZCD6OVOus15q7wVA7UfbjWrX7tVIvTZiUW7093gt9YhEAIDsiWjcPtuK2haFMbVwEeAYvqc7PWtsdDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Integer\\OneDrive - Integer Consulting\\Ambiente de Trabalho\\Projetos\\Personal\\pptToPdf\\pptToPdf\\pptToPdf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Integer\\.nuget\\packages\\harfbuzzsharp\\2.8.2-preview.209\\harfbuzzsharp.2.8.2-preview.209.nupkg.sha512",
+    "C:\\Users\\Integer\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\2.8.2-preview.209\\harfbuzzsharp.nativeassets.macos.2.8.2-preview.209.nupkg.sha512",
+    "C:\\Users\\Integer\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\2.8.2-preview.209\\harfbuzzsharp.nativeassets.win32.2.8.2-preview.209.nupkg.sha512",
+    "C:\\Users\\Integer\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Integer\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Integer\\.nuget\\packages\\skiasharp\\2.88.0-preview.209\\skiasharp.2.88.0-preview.209.nupkg.sha512",
+    "C:\\Users\\Integer\\.nuget\\packages\\skiasharp.harfbuzz\\2.88.0-preview.209\\skiasharp.harfbuzz.2.88.0-preview.209.nupkg.sha512",
+    "C:\\Users\\Integer\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.0-preview.209\\skiasharp.nativeassets.macos.2.88.0-preview.209.nupkg.sha512",
+    "C:\\Users\\Integer\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.0-preview.209\\skiasharp.nativeassets.win32.2.88.0-preview.209.nupkg.sha512",
+    "C:\\Users\\Integer\\.nuget\\packages\\syncfusion.compression.net.core\\20.1.0.61\\syncfusion.compression.net.core.20.1.0.61.nupkg.sha512",
+    "C:\\Users\\Integer\\.nuget\\packages\\syncfusion.licensing\\20.1.0.61\\syncfusion.licensing.20.1.0.61.nupkg.sha512",
+    "C:\\Users\\Integer\\.nuget\\packages\\syncfusion.officechart.net.core\\20.1.0.61\\syncfusion.officechart.net.core.20.1.0.61.nupkg.sha512",
+    "C:\\Users\\Integer\\.nuget\\packages\\syncfusion.pdf.net.core\\20.1.0.61\\syncfusion.pdf.net.core.20.1.0.61.nupkg.sha512",
+    "C:\\Users\\Integer\\.nuget\\packages\\syncfusion.presentation.net.core\\20.1.0.61\\syncfusion.presentation.net.core.20.1.0.61.nupkg.sha512",
+    "C:\\Users\\Integer\\.nuget\\packages\\syncfusion.presentationrenderer.net.core\\20.1.0.61\\syncfusion.presentationrenderer.net.core.20.1.0.61.nupkg.sha512",
+    "C:\\Users\\Integer\\.nuget\\packages\\syncfusion.skiasharphelper.net.core\\20.1.0.61\\syncfusion.skiasharphelper.net.core.20.1.0.61.nupkg.sha512",
+    "C:\\Users\\Integer\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Integer\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
